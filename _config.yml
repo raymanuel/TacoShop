@@ -1,5 +1,0 @@
-title: TacoShop
-description: A simple HTML/CSS site for taco schedules
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-  - jekyll-remote-theme
