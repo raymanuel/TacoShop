@@ -1,0 +1,132 @@
+html {
+  background-color: beige;
+  font-size: 22px;
+}
+
+header h1 {
+  color: gold;
+  font-size: 70px;
+  text-align: center;
+}
+
+#index-menu {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+#index-about {
+  text-align: center;
+}
+
+#index-header-figure {
+  text-align: center;
+}
+
+aside {
+  text-align: center;
+}
+
+/* Your list will now either have red dots, or red numbers */
+li::marker {
+  color: black;
+}
+
+nav,
+nav a {
+  color: goldenrod;
+  text-align: center;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  padding-bottom: 0%;
+  margin-bottom: 0%;
+}
+
+th,
+td,
+caption {
+  border: 1px solid #333;
+  font-family: "Courier New", Courier, monospace;
+  border-collapse: separate;
+  padding: 0.5rem;
+}
+
+/* This is a comment 
+footer {
+  padding-right: 450px;
+}
+
+
+#index-menu * + * {
+  color: red;
+}
+
+
+
+#index-menu {
+  padding-left: 200px;
+}
+
+#index-menu h2 {
+  padding-right: 260px;
+}
+#index-menu a {
+  padding-right: 260px;
+}
+#index-header {
+  text-align: center;
+}
+
+#index-header-figure {
+  text-align: center;
+}
+
+#index-about {
+  text-align: center;
+}
+
+#index-menu {
+  text-align: center;
+}
+
+#index-footer {
+  text-align: center;
+}
+
+#hours-header-figure {
+  text-align: center;
+}
+
+#hours-storehours {
+  text-align: center;
+}
+
+#hours-footer {
+  text-align: center;
+}
+
+
+#contact-header-figure {
+  text-align: center;
+}
+
+#contact-footer {
+  text-align: center;
+}
+
+#contact-form {
+  text-align: center;
+}
+
+#contact-location {
+  text-align: center;
+}
+*/

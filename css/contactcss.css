@@ -1,0 +1,32 @@
+html {
+  background-color: beige;
+  font-size: 22px;
+}
+
+header h1 {
+  color: gold;
+  font-size: 70px;
+  text-align: center;
+}
+
+nav,
+nav a {
+  color: goldenrod;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  padding-bottom: 0%;
+  margin-bottom: 0%;
+}
+
+#contact-header-figure,
+#contact-form,
+#contact-location {
+  text-align: center;
+}
